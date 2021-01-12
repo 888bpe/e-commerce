@@ -6,19 +6,19 @@
     'aliases' => 
     array (
     ),
-    'reference' => '46bfa822a8f3e64d8dc3c3ae51f99eec6d0bdc9b',
-    'name' => 'hcodebr/ecommerce',
+    'reference' => '91dff7c296b43b62108b3f32d3e464c7804c364c',
+    'name' => '888bpe/e-commerce',
   ),
   'versions' => 
   array (
-    'hcodebr/ecommerce' => 
+    '888bpe/e-commerce' => 
     array (
       'pretty_version' => 'dev-master',
       'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => '46bfa822a8f3e64d8dc3c3ae51f99eec6d0bdc9b',
+      'reference' => '91dff7c296b43b62108b3f32d3e464c7804c364c',
     ),
     'phpmailer/phpmailer' => 
     array (
